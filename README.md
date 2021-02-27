@@ -11,6 +11,7 @@ Abstract data types in c
 * Linked Lists
 * Hashtables
 * Binary Trees
+
 Mathematical Modeling in R (Ecological and Evolutionary systems)
 Geospatial Analysis using ArcGIS (hydrological, image and network analysis, cost-distance modeling)
 Modular web-app development using flask, mySQL, bulma.css, python, and HTML
