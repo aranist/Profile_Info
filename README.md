@@ -8,9 +8,9 @@ I was born and raised in Santa Fe, New Mexico, the land of enchantment, and live
 1. ESRGAN for super-resolution of 3 low res input images
 1. RESTful api for deployment over docker cloud 
 1. Abstract data types in c
-  2. Linked Lists
-  2. Hashtables
-  2. Binary Trees
+   1. Linked Lists
+   1. Hashtables
+   1. Binary Trees
 
 1. Mathematical Modeling in R (Ecological and Evolutionary systems)
 1. Geospatial Analysis using ArcGIS (hydrological, image and network analysis, cost-distance modeling)
