@@ -9,8 +9,10 @@ I was born and raised in Santa Fe, New Mexico, the land of enchantment, and live
 1. RESTful api for deployment over docker cloud 
 1. Abstract data types in c
    1. Linked Lists
-   1. Hashtables
-   1. Binary Trees
+   2. Stacks
+   3. Queues
+   4. Hashtables
+   5. Binary Trees
 
 1. Mathematical Modeling in R (Ecological and Evolutionary systems)
 1. Geospatial Analysis using ArcGIS (hydrological, image and network analysis, cost-distance modeling)
